@@ -1,0 +1,8 @@
+{
+  "name": "personaltrener",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular",
+  "id": "617256ac"
+}
